@@ -12,5 +12,4 @@ console.log(a,b)
 
 const c = 5
 console.log(c)
-ss
 // tag "const" e para nominar constantes, assim que nomiadas elas nao poder ser alteradas mais.
